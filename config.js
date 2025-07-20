@@ -18,19 +18,19 @@ export default {
   activities: [
     {
       type: "PLAYING",
-      text: "หัวพ่อมึงทุกตัว",
+      text: "TeamSpeakUser",
     },
     {
       type: "LISTENING",
-      text: "TeamSPeakUser",
+      text: "TeamSpeakUser",
     },
     {
       type: "WATCHING",
-      text: "TeamSPeakUser",
+      text: "TeamSpeakUser",
     },
     {
       type: "PLAYING",
-      text: "TeamSPeakUser",
+      text: "TeamSpeakUser",
     },
     {
       type: "LISTENING",
