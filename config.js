@@ -18,7 +18,7 @@ export default {
   activities: [
     {
       type: "PLAYING",
-      text: "music for everyone",
+      text: "หัวพ่อมึงทุกตัว",
     },
     {
       type: "LISTENING",
