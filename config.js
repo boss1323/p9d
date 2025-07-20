@@ -5,9 +5,9 @@ export default {
     nodes: [
       {
         name: "GlaceYT",
-        password: "glaceyt",
-        host: "5.39.63.207",
-        port: 8262,
+        password: "youshallnotpass",
+        host: "gh46.glacierhosting.org",
+        port: 25583,
         secure: false,
       },
     ],
