@@ -3,13 +3,16 @@ export default {
   
   lavalink: {
     nodes: [
-      {
-        name: "GlaceYT",
-        password: "youshallnotpass",
-        host: "gh46.glacierhosting.org",
-        port: 25583,
-        secure: false,
-      },
+   
+{
+      name: "Anakin",
+      password: "anakin",
+      host: "us.apsara.lol",
+      port:  25575,
+      secure: false
+    }
+
+,
     ],
     defaultSearchPlatform: "ytmsearch",
     restVersion: "v4",
