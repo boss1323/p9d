@@ -22,23 +22,23 @@ export default {
     },
     {
       type: "LISTENING",
-      text: "your requests",
+      text: "TeamSPeakUser",
     },
     {
       type: "WATCHING",
-      text: "the music queue",
+      text: "TeamSPeakUser",
     },
     {
       type: "PLAYING",
-      text: "beats and melodies",
+      text: "TeamSPeakUser",
     },
     {
       type: "LISTENING",
-      text: "to the rhythm",
+      text: "TeamSPeakUser",
     },
     {
       type: "WATCHING",
-      text: "over the server",
+      text: "TeamSPeakUser",
     },
   ],
   
